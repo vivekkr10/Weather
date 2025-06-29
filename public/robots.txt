@@ -2,4 +2,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://your-site.netlify.app/sitemap.xml
+Sitemap: https://gyanarjna.netlify.app/sitemap.xml
